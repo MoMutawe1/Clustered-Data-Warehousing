@@ -38,9 +38,9 @@ public class AppConfig {
 	public DataSource getDataSource() {
 		BasicDataSource dataSource = new BasicDataSource();
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-		dataSource.setUrl("jdbc:mysql://localhost:3306/clustered_data_warehousing");
-		dataSource.setUsername("root");
-		dataSource.setPassword("generalMzm190");
+		dataSource.setUrl("jdbc:mysql://localhost:3306/your_database_name");
+		dataSource.setUsername("your_username");
+		dataSource.setPassword("your-password");
 
 		return dataSource;
 	}
