@@ -5,7 +5,7 @@
 - The project contains (dump**.sql) scripts to be ran against the database
 - The project uses Log4j as a logger.
 - The project implements the search.
-- Sample csv files(small and large) are attached. (check resoures folder)
+- Sample csv files(small and large) are attached. (check resources folder)
 
 
 *The dataset of 100K records was uploaded in less than 5 seconds by streaming data as bytes*.
