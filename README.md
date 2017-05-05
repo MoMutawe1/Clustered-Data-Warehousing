@@ -2,10 +2,11 @@
 - The project uses Spring MVC with purely Java based configuration for bean definition.  
 - The project uses JPA as a persistence layer and hibernate as a persistence provider.
 - The project uses maven as a building tool.
-- The project contains (dump**.sql) scripts to be ran against the database.
+- The project contains (dump**.sql) scripts to be ran against the database
 - The project uses Log4j as a logger.
 - The project implements the search.
-- Sample csv files(small and large) are attached.
+- Sample csv files(small and large) are attached. (check resoures folder)
+
 
 *The dataset of 100K records was uploaded in less than 5 seconds by streaming data as bytes*.
 
